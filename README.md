@@ -44,7 +44,11 @@ I believe in consistency, deep work, and building a mindset that outlasts motiva
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yashraj2007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Yashraj2007&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
+### 📂 My Repositories
+
+[![Explore My Repositories](https://img.shields.io/badge/GitHub-Repositories-blue?logo=github)](https://github.com/Yashraj2007?tab=repositories)
+
 
 ---
 
