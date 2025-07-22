@@ -76,5 +76,4 @@ I believe in consistency, deep work, and building a mindset that outlasts motiva
 
 ---
 
-Let me know if you want a separate portfolio website version of this too!
 
